@@ -1,0 +1,7 @@
+.bg-gradiente{
+    background: linear-gradient(55deg, black,yellow,red, blue);
+  }
+  #aru{
+    width: 100px;
+    height: 100px;
+  }
